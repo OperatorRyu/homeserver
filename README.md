@@ -27,6 +27,8 @@ Software:
 -fail2ban
 -clamav
 -SAMBA Server
+-synapse
+-plex
 
 Hardware Replacements:
 Storage Drive - Western Digital HDD 2TB SATA Ultrastar HA210 3.5" 6GB/S 128MB
