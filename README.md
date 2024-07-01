@@ -10,8 +10,8 @@ Archinstall script
 -minimal
 -multilib
 Username - serveradmin > sudo
-Username - andyserver > sudo
-Username - lindieserver > sudo
+Username - andyserver > normal
+Username - lindieserver > normal
 Username - tavianserver > normal
 
 Software:
@@ -29,6 +29,7 @@ Software:
 -SAMBA Server
 -synapse
 -plex
+-openssh
 
 Hardware Replacements:
 Storage Drive - Western Digital HDD 2TB SATA Ultrastar HA210 3.5" 6GB/S 128MB
